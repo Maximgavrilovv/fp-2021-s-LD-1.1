@@ -1,4 +1,4 @@
-package com.company;
+
 import java.util.Set;
 import java.util.HashSet;
 
@@ -37,5 +37,9 @@ public class PerfectNumber {
         {
             return State.ABUNDANT;
         }
+    }
+
+    public static void main(String[] args) {
+
     }
 }
